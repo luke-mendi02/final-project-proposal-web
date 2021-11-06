@@ -1,0 +1,19 @@
+h1 {
+	color:black;border: 1px solid lavender;padding: 1px
+}
+
+h2 {
+	color:black;border: 1px solid lavender
+}
+
+ul {
+	color:black
+}
+p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    line-height: 25px;
+	color:black; 
+}
